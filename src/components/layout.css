@@ -488,9 +488,9 @@ dt {
 th {
   font-weight: bold;
 }
-li {
+/* li {
   margin-bottom: calc(1.45rem / 2);
-}
+} */
 ol li {
   padding-left: 0;
 }
@@ -601,4 +601,19 @@ pre tt:after {
 .logoimage {
   display: flex;
   width: 160px;
+  height: auto;
+  justify-content: center;
+}
+
+.navList {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  justify-content: left;
+}
+
+.navList a {
+  text-decoration: none;
+  color: white;
+  padding-right: 50px;
 }
