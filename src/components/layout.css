@@ -595,3 +595,10 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+/* My CSS */
+
+.logoimage {
+  display: flex;
+  width: 160px;
+}
