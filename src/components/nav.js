@@ -10,7 +10,6 @@ export default function nav() {
                 display:`flex`,
                 margin: `0 auto`,
                 maxWidth: 960,
-                
                 listStyle: ` none`,
                 backgroundColor: `#69C6B3`,
                 color: `white`,
